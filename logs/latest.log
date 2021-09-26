@@ -1,0 +1,36 @@
+[01:03:13] [Server thread/INFO]: rav[/130.105.205.91:64970] logged in with entity id 52786 at (94.83881336435292, 15.0, -2381.5901324131473)
+[01:03:13] [Server thread/INFO]: rav joined the game
+[01:04:29] [Server thread/INFO]: rav has made the advancement [Suit Up]
+[01:44:55] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=311, y=87, z=-2284} gg{x=311, y=87, z=-2286}
+[01:44:56] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=311, y=87, z=-2284} gg{x=311, y=87, z=-2286}
+[01:47:54] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=203, y=80, z=-2153} gg{x=203, y=79, z=-2155}
+[01:53:45] [Server thread/INFO]: rav has made the advancement [Not Today, Thank You]
+[01:54:50] [Server thread/INFO]: Villager bjr['Farmer'/61165, l='ServerLevel[world]', x=144.70, y=70.00, z=-1867.70] died, message: 'Farmer was slain by Husk'
+[01:58:12] [Server thread/INFO]: Villager bjr['Farmer'/61164, l='ServerLevel[world]', x=63.12, y=63.00, z=-1889.64] died, message: 'Farmer was slain by Zombie'
+[02:00:50] [Server thread/INFO]: Villager bjr['Villager'/61132, l='ServerLevel[world]', x=171.70, y=71.00, z=-1961.70] died, message: 'Villager was slain by Zombie'
+[02:01:09] [Server thread/INFO]: Villager bjr['Villager'/61188, l='ServerLevel[world]', x=131.20, y=71.00, z=-1872.77] died, message: 'Villager was slain by Zombie'
+[02:01:44] [Server thread/INFO]: rav was shot by Skeleton
+[02:05:13] [Server thread/INFO]: rav drowned
+[02:05:31] [Server thread/INFO]: rav fell from a high place
+[02:13:02] [Server thread/INFO]: rav was slain by Zombie
+[02:14:46] [Server thread/INFO]: rav was slain by Zombie
+[02:15:48] [Server thread/INFO]: rav was slain by Zombie
+[02:16:09] [Server thread/INFO]: rav was shot by Skeleton
+[02:18:14] [Server thread/INFO]: rav lost connection: Disconnected
+[02:18:14] [Server thread/INFO]: rav left the game
+[11:55:06] [Server thread/INFO]: lestaH[/180.190.29.54:19727] logged in with entity id 68895 at (266.11121689933566, 145.97192045011565, -1686.1357784798286)
+[11:55:06] [Server thread/INFO]: lestaH joined the game
+[11:57:37] [Server thread/INFO]: lestaH lost connection: Timed out
+[11:57:37] [Server thread/INFO]: lestaH left the game
+[11:57:37] [Server thread/WARN]: handleDisconnection() called twice
+[12:02:32] [Server thread/INFO]: lestaH[/180.190.29.54:19720] logged in with entity id 69555 at (270.8958548262251, 135.0, -1713.292427060983)
+[12:02:32] [Server thread/INFO]: lestaH joined the game
+[12:11:46] [Server thread/INFO]: lestaH was slain by Husk
+[12:12:28] [Server thread/INFO]: lestaH fell from a high place
+[12:17:06] [Server thread/INFO]: lestaH fell from a high place
+[12:38:46] [Server thread/INFO]: lestaH lost connection: Disconnected
+[12:38:46] [Server thread/INFO]: lestaH left the game
+[12:58:31] [Server thread/INFO]: lestaH[/180.190.29.54:39831] logged in with entity id 80395 at (277.3399493345044, 135.0, -1715.4292485727315)
+[12:58:31] [Server thread/INFO]: lestaH joined the game
+[13:12:46] [Server thread/INFO]: lestaH lost connection: Disconnected
+[13:12:46] [Server thread/INFO]: lestaH left the game
